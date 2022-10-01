@@ -28,9 +28,9 @@ public class Vehiculo {
 		
 	}
 	
-	public Vehiculo() {
+	/*public Vehiculo() {
 		
-	}
+	}*/
 	
 	//metodos gett
 
